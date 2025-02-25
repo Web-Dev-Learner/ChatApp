@@ -4,6 +4,9 @@
 
 The **Real-Time Chat Application** is a  web app built using the **MERN stack**, enhanced with **Socket.io** for real-time messaging, **Zustand** for state management, and **TailwindCSS + Daisy UI** for a modern UI/UX experience.  
 
+Preview [**Video Demo**](https://drive.google.com/file/d/1mLYFmJIuQ_XvEWV-S7Zyquy2qYQPDGuc/view?usp=sharing) for a detailed walkthrough.
+
+
 The application supports:  
 ✅ **User authentication**  
 ✅ **Online/offline status tracking**  
